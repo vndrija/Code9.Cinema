@@ -15,4 +15,8 @@
 		<ProjectReference Include="..\Code9.Infrastructure\Code9.Infrastructure.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	</ItemGroup>
+
 </Project>
